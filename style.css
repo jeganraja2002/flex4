@@ -1,0 +1,101 @@
+	
+*{margin:0;
+padding:0;
+box-sizing:border-box}
+
+.flex{display:flex;}
+
+body{background-color:gray}
+
+.space{padding:0px 4px 0px 39px;}
+
+.border{border-top-left-radius:3%;
+       border-top-right-radius:3%;
+	   border-bottom:100px solid;
+       border-color:white;
+	   border-bottom-left-radius:3%;
+	   border-bottom-right-radius:3%}
+
+h1{color:white;}
+
+hr{border-color:hotpink;
+width:203px;
+margin-left:582px}
+
+.p{color:white;
+font-size:18px}
+
+
+.margin{color:black;
+margin-top:-80px;
+margin-left:23px;}
+
+.margin2{color:black;
+margin-top:-80px;
+margin-left:23px;}
+
+.margin3{color:black;
+margin-top:-80px;
+margin-left:23px;}
+
+.margin4{color:black;
+margin-top:-80px;
+margin-left:23px;}
+
+span{color:gray}
+
+
+
+/* instgram */
+
+#icon{position:absolute;
+top:310px;
+left:70px;
+color:red;
+font-size:30px;
+visibility:hidden;
+background-color:pink;
+border-radius:100px}
+
+.space:hover #icon{
+visibility:visible;}
+
+
+#icon1{position:absolute;
+top:310px;
+left:390px;
+color:red;
+font-size:30px;
+visibility:hidden;
+background-color:pink;
+border-radius:100px}
+
+.space:hover #icon1{
+visibility:visible;}
+
+
+#icon2{position:absolute;
+top:310px;
+left:710px;
+color:red;
+font-size:30px;
+visibility:hidden;
+background-color:pink;
+border-radius:100px}
+
+.space:hover #icon2{
+visibility:visible;
+transition:4s;}
+
+
+#icon3{position:absolute;
+top:310px;
+left:75.5%;
+color:red;
+font-size:30px;
+visibility:hidden;
+background-color:pink;
+border-radius:100px}
+
+.space:hover #icon3{
+visibility:visible;}
